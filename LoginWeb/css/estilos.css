@@ -1,0 +1,36 @@
+.fondo {
+    background-image: url('../media/fondo.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+.izquierda {
+    background-color: black;
+    height: 100vh;
+    width: 20%;
+    padding: 20PX;
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: 8px;
+}
+
+h1 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 3em;
+    text-align: center;
+    color: #e0e0e0;
+}
+
+.input-field label {
+    font-size: 1em;
+}
+
+.input-field input {
+    font-size: 1em;
+    padding: 15px;
+    color: white;
+}
+

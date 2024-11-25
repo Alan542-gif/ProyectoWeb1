@@ -1,0 +1,7 @@
+body {
+    background: url('../media/fondo3.gif') no-repeat center center fixed;
+    background-size: cover; /* Ajusta el tamaño para que ocupe toda la pantalla */
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+}
